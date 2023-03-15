@@ -1,4 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-mojtababagheri.ir	TRUE	/	FALSE	1999999999	PHPSESSID	ri1jl69an52g5pr8f44ealvj8l
-
